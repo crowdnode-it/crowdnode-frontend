@@ -11,6 +11,8 @@ Ensure you have the following installed on your machine:
 - **Docker** & **Docker Compose** [download here](https://docs.docker.com/get-started/get-docker/)
 - **Make** (standard on Linux/macOS; for Windows, use WSL or Git Bash)
 
+Install [Expo Go application](https://expo.dev/go) in order to run the application on your phone.
+
 ---
 
 ## 🚀 Getting Started with Make
