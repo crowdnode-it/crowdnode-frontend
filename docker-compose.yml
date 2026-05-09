@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    container_name: crowdnode-frontend
+    ports:
+      - "8081:8081" # Metro Bundler
+    volumes:
+      - .:/app
+      - /app/node_modules
+    stdin_open: true
+    tty: true
